@@ -1,1 +1,1 @@
-# Passing_Network_Analysis
+# This is a weighted directed network code based on passing coordinates, which can help improve the situation where the value of forward players generally lags behind that of defensive players in traditional passing networks. The data source is question D of 2020 American College Students Mathematical Modeling Contest. At the end of the code, some network invariants are calculated, including clustering coefficient and centrality, etc. I hope this code can help you!
